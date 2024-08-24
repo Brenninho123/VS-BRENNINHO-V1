@@ -3,32 +3,7 @@
 		{
 			"offsets": [
 				0,
-				-18
-			],
-			"loop": false,
-			"anim": "sad",
-			"fps": 24,
-			"name": "gf sad",
-			"indices": [
-				0,
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12
-			]
-		},
-		{
-			"offsets": [
-				0,
-				-9
+				0
 			],
 			"loop": false,
 			"anim": "danceLeft",
@@ -56,7 +31,7 @@
 		{
 			"offsets": [
 				0,
-				-9
+				0
 			],
 			"loop": false,
 			"anim": "danceRight",
@@ -79,25 +54,41 @@
 				28,
 				29
 			]
+		},
+		{
+			"offsets": [
+				0,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "reach",
+			"loop": false,
+			"name": "GF Reach"
 		}
 	],
+	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/pico/gf-pico1",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "gf",
+	"healthicon": "gf-evil",
+	"priorityAnim": [
+		"reach"
+	],
 	"flip_x": false,
 	"healthbar_colors": [
-		165,
 		0,
-		77
+		0,
+		0
 	],
 	"camera_position": [
 		0,
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1,
+	"_editor_isPlayer": false
 }

@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "BF idle dance0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				14,
+				1
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT ALT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-1
+			],
+			"anim": "hey",
+			"fps": 12,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				7
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "BF NOTE LEFT ALT0"
+		},
+		{
+			"offsets": [
+				-25,
+				-72
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "BF NOTE DOWN ALT0"
+		},
+		{
+			"offsets": [
+				-18,
+				48
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "BF NOTE UP ALT0"
+		},
+		{
+			"offsets": [
+				-51,
+				11
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "BF NOTE RIGHT ALT0"
+		},
+		{
+			"offsets": [
+				-20,
+				-39
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN ALT0"
+		},
+		{
+			"offsets": [
+				-32,
+				28
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP ALT0"
+		},
+		{
+			"offsets": [
+				-70,
+				-3
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT ALT0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Brenninho-pixel-lol",
+	"position": [
+		0,
+		340
+	],
+	"healthicon": "Brenninho",
+	"flip_x": true,
+	"healthbar_colors": [
+		30,
+		237,
+		173
+	],
+	"camera_position": [
+		100,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				106,
+				25
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				103,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				96,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				106,
+				68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				102,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/ALEATORIO V1",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "ICON-ALEATORIO",
+	"flip_x": true,
+	"healthbar_colors": [
+		85,
+		255,
+		0
+	],
+	"camera_position": [
+		130,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

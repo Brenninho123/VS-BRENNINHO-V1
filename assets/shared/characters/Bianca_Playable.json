@@ -1,0 +1,157 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "gfDanceLeft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "gfDanceRight"
+		},
+		{
+			"offsets": [
+				22,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GFup"
+		},
+		{
+			"offsets": [
+				33,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GFdown"
+		},
+		{
+			"offsets": [
+				81,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GFleft"
+		},
+		{
+			"offsets": [
+				-62,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GFright"
+		},
+		{
+			"offsets": [
+				60,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "gf pre attack",
+			"indices": [],
+			"name": "gf pre attack"
+		},
+		{
+			"offsets": [
+				388,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "gf attack",
+			"indices": [],
+			"name": "gf attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				-29
+			],
+			"anim": "gf dodge",
+			"fps": 24,
+			"name": "gf dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-29
+			],
+			"anim": "gf hit",
+			"fps": 24,
+			"name": "gf hit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-7
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		}
+	],
+	"vocals_file": "gf",
+	"no_antialiasing": false,
+	"image": "characters/Bianca_Playable",
+	"position": [
+		140,
+		240
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		100,
+		161
+	],
+	"camera_position": [
+		230,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

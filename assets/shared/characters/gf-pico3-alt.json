@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BGF Idle"
+		},
+		{
+			"offsets": [
+				-2,
+				-241
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BGF Note DOWN"
+		},
+		{
+			"offsets": [
+				9,
+				-233
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BGF Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-237
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BGF Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-242
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BGF Note LEFT",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/rewind/tempest/gf-tempest",
+	"position": [
+		550,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

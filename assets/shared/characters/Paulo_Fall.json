@@ -1,0 +1,143 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [
+				15,
+				14,
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				6,
+				2
+			],
+			"indices": [
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-7,
+				-4
+			],
+			"indices": [
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				-7,
+				4
+			],
+			"indices": [
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				-12,
+				-1
+			],
+			"indices": [
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF NOTE RIGHT0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Paulo_Fall",
+	"position": [
+		-110,
+		140
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

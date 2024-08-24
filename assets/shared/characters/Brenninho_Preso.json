@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-64,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BFIdle"
+		},
+		{
+			"offsets": [
+				-70,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BFDown"
+		},
+		{
+			"offsets": [
+				-51,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BFLeft"
+		},
+		{
+			"offsets": [
+				-77,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BFUp"
+		},
+		{
+			"offsets": [
+				-84,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BFRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Brenninho_Preso",
+	"position": [
+		-80,
+		230
+	],
+	"healthicon": "Brenninho",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		42,
+		127
+	],
+	"camera_position": [
+		-70,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
