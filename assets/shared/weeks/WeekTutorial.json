@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Tutorial-Brenno-Mix",
+			"Brenninho",
+			[
+				30,
+		        237,
+		        173
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "meupau",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Aula Com O Aleatorio",
+	"weekName": "Me de suas bolas",
+	"freeplayColor": [
+		30,
+		237,
+		173
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}
