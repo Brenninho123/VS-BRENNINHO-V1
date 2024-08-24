@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="explotion.png">
+<SubTexture name="explotion0000" x="0" y="0" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0001" x="680" y="0" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0002" x="1360" y="0" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0003" x="2040" y="0" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0004" x="2720" y="0" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0005" x="0" y="400" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0006" x="680" y="400" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0007" x="1360" y="400" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0008" x="2040" y="400" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0009" x="2720" y="400" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0010" x="0" y="800" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0011" x="680" y="800" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0012" x="1360" y="800" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0013" x="2040" y="800" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0014" x="2720" y="800" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0015" x="0" y="1200" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0016" x="680" y="1200" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0017" x="1360" y="1200" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0018" x="2040" y="1200" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0019" x="2720" y="1200" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0020" x="0" y="1600" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0021" x="680" y="1600" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0022" x="1360" y="1600" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0023" x="2040" y="1600" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0024" x="2720" y="1600" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0025" x="0" y="2000" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0026" x="680" y="2000" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0027" x="1360" y="2000" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0028" x="2040" y="2000" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0029" x="2720" y="2000" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0030" x="0" y="2400" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0031" x="680" y="2400" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0032" x="1360" y="2400" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0033" x="2040" y="2400" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0034" x="2720" y="2400" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0035" x="0" y="2800" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0036" x="680" y="2800" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0037" x="1360" y="2800" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0038" x="2040" y="2800" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0039" x="2720" y="2800" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0040" x="0" y="3200" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0041" x="680" y="3200" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0042" x="1360" y="3200" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0043" x="2040" y="3200" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0044" x="2720" y="3200" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0045" x="0" y="3600" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0046" x="680" y="3600" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0047" x="1360" y="3600" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0048" x="2040" y="3600" width="680" height="400" frameX="0" frameY="0" frameWidth="640" frameHeight="360" />
+<SubTexture name="explotion0049" x="650" y="0" width="1" height="1"/>
+</TextureAtlas>
